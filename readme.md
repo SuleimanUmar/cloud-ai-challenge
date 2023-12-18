@@ -9,7 +9,7 @@ Before getting started, make sure you have the following:
 * Azure account
 * Either an Azure OpenAI endpoint and apiKey or an OpenAI API key
 * VS Code
-* Docker
+* Docker..
 * Dev Containers extension for VS Code
 
 ## Installation
