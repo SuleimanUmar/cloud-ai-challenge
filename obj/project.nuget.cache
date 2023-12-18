@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "wn4VkjH1z5JcztkSXdHjIp19LHKudgY2uZZwynGMpIU5v+djlWi84cD5U2HZ50G1+fR/sDaqgR/hkoh2N/MDGA==",
+  "success": true,
+  "projectFilePath": "/workspaces/cloud-ai-challenge/cloud-ai-challenge.csproj",
+  "expectedPackageFiles": [
+    "/home/vscode/.nuget/packages/azure.ai.openai/1.0.0-beta.6/azure.ai.openai.1.0.0-beta.6.nupkg.sha512",
+    "/home/vscode/.nuget/packages/azure.ai.vision.common/0.15.1-beta.1/azure.ai.vision.common.0.15.1-beta.1.nupkg.sha512",
+    "/home/vscode/.nuget/packages/azure.ai.vision.imageanalysis/0.15.1-beta.1/azure.ai.vision.imageanalysis.0.15.1-beta.1.nupkg.sha512",
+    "/home/vscode/.nuget/packages/azure.core/1.34.0/azure.core.1.34.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/betalgo.openai/7.4.2/betalgo.openai.7.4.2.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.configuration.binder/7.0.0/microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.http/7.0.0/microsoft.extensions.http.7.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.options.configurationextensions/7.0.0/microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
+    "/home/vscode/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
